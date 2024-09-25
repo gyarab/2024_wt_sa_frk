@@ -1,11 +1,8 @@
 # Epic Games
 
 
-##### [Epic Games](https://cs.wikipedia.org/wiki/Elektrotechnika) používá černobílé logo, což představuje modernost a profesionalitu. Černá barva zobrazuje sílu a autoritu, což je v souladu s jejich postavením jako lídra ve vývoji her a herních technologií.
-Bílá symbolizuje čistotu, jednoduchost a transparentnost, což vyjadřuje jasnost a přístupnost jejich produktů a služeb. Společně tyto barvy posilují dojem technologické vyspělosti.
-
-
-
+##### [Epic Games](https://cs.wikipedia.org/wiki/Elektrotechnika) používá černobílé logo, což představuje modernost, profesionalitu a eleganci. Černá barva zobrazuje sílu a autoritu, což souvisí s tím, že to je velmi významná firma ve vývoji her a herních technologií.
+##### Bílá symbolizuje čistotu, jednoduchost a transparentnost, což vyjadřuje přístupnost jejich produktů a přístup k svým zákazníkům. Společně tyto barvy dodávají dojem elegantnosti a technologické vyspělosti, čehož se firma nejspíše snaží dosáhnout.
 
 
 
