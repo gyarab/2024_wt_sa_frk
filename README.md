@@ -13,5 +13,7 @@ Na homepage aplikace se nachází dvě hlavní kartičky, každá reprezentujíc
 Hlavní menu obsahuje odkazy na homepage (seznam generací) a další funkce aplikace, jako je vyhledávání. Vyhledávací pole umožňuje fulltextové hledání v názvech a specifikacích karet.
 
 
+## Wireframe
+
 
 
