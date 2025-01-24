@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pexeso</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f4f4f4;
+    }
+
+    .game-board {
+      display: grid;
+      grid-template-columns: repeat(4, 200px);
+      gap: 20px;
+    }
+
+    .card {
+      width: 200px;
+      height: 200px;
+      background-color: #007bff;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 48px;
+      cursor: pointer;
+      border-radius: 16px;
+    }
+
+    .card.flipped {
+      background-color: #fff;
+      color: #000;
+      cursor: default;
+    }
+
+    .card.matched {
+      background-color: #28a745;
+      color: #fff;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="game-board"></div>
+  <script src="script.js"></script>
+</body>
+</html>
